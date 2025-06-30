@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmaiExtactor", "EmaiExtactor\EmaiExtactor.csproj", "{6554A4F9-4CA6-4031-BEE7-616A74A74E5E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailExtractor", "EmailExtractor\EmailExtractor.csproj", "{6554A4F9-4CA6-4031-BEE7-616A74A74E5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
